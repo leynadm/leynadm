@@ -5,10 +5,10 @@ I wasn't expecting guests but I'm glad you're here!
 Here's a few things you should know about me, as a heads up.
 
 - 🔭 I’m currently going through the <strong>Odin Project</strong> (a full stack curriculum for web development, more info [here](https://www.theodinproject.com/))
-- 🌱 I’m learning HTML, CSS and Javascript, going strong into React & nodeJS!
-- ⚡ I started my journey learning Visual Basic for Applications, automating Excel files. I was on a quest to automate every spreadsheet out there in the wild, before changing focus to web development (I had about ~5 files left).
+- 🌱 I’m learning HTML, CSS and Javascript, going strong into React & nodeJS
+- ⚡ I started my journey learning Visual Basic for Applications, automating Excel files. I was on a quest to automate every spreadsheet out there in the wild, before changing focus to web development (I had about ~5 files left)
 - :ok_hand: Programming languages are not the only ones I enjoy, as I speak Romanian, English, French and _some_ Spanish
-- 💬 Ask me about anything you feel like, but know I'm getting quite good at centering divs. :smirk:
+- 💬 Ask me about anything you feel like, but know I'm getting quite good at centering divs :smirk:
 
 ### Reach out to me and I'll make sure to reply back:
 <div id="badges">
