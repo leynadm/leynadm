@@ -10,7 +10,7 @@ Here's a few things you should know about me, as a heads up.
 - :ok_hand: Programming languages are not the only ones I enjoy, as I speak Romanian, English, French fluently, with _some_ Spanish as well
 - 💬 Ask me about anything you feel like, but know I'm getting quite good at centering divs :smirk:
 
-### Reach out to me and I'll make sure to reply back:
+### :loudspeaker: Reach out to me and I'll make sure to reply back:
 <div id="badges">
   <a href="https://www.linkedin.com/in/matei-daniel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
