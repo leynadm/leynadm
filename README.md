@@ -1,6 +1,6 @@
-### Hello there! 👋
+### Hello! 👋
 
-I wasn't expecting guests but I'm glad you're here! 
+I wasn't expecting guests but you're more than welcome around here! 
 
 Here's a few things you should know about me, as a heads up.
 
