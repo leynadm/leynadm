@@ -11,7 +11,7 @@ Here's a few things you should know about me, as a heads up.
 - Ask me about anything you feel like, but know I'm getting quite good at centering divs :smirk:
 
 ### :computer: Projects I've built 
-## <a href="https://fitpowerup.com/" target="_blank">fitPowerUp - A Dragon Ball Z Inspired Fitness App</a>
+### *<a href="https://fitpowerup.com/" target="_blank">fitPowerUp - A Dragon Ball Z Inspired Fitness App</a>*
 
 fitPowerUp represents my first ever full-stack project. Built with React, Typescript and Firebase, I wanted to create an app that combined a wide array of features suitable for a fitness app, as well as a gamification element inspired from Dragon Ball Z series.
 The app overview:
@@ -24,7 +24,7 @@ The app overview:
 
 Current monthly active users (outside of me): 2
 
-## <a href="https://fitpowerup.com/](https://footballevolved.app/" target="_blank">Football Evolved</a>
+### *<a href="https://fitpowerup.com/](https://footballevolved.app/" target="_blank">Football Evolved</a> - A Tracker App For Amateur footballers*
 
 Had I had the talent, instead of becoming a developer I would have most likely become a professional footballer. Or maybe a professional developer footballer! 
 
@@ -44,7 +44,7 @@ The app overview:
 
 Current monthly active users (outside of me): Let's say not a lot
 
-## <a href="https://myfootballlegacy.com/" target="_blank">My Football Legacy</a>
+### *<a href="https://myfootballlegacy.com/" target="_blank">My Football Legacy</a> - A Football Management Simulator*
 
 After building two apps that worked but gained no users, I thought it was finally the moment to try and build something that other people would use. 
 
