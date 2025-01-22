@@ -95,7 +95,7 @@ The app overview:
 Current monthly active users (outside of me): 270+
 
 ### :fire: Have a look at my stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leynadm&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leynadm&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **leynadm/leynadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
