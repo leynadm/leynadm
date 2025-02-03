@@ -70,7 +70,7 @@ The app overview:
 
 Current monthly active users (outside of me): Let's say not a lot
 
-### *<a href="https://myfootballlegacy.com/" target="_blank">My Football Legacy</a> - A Football Management Simulator*
+### *<a href="https://myfootballlegacy.com/" target="_blank">My Football Legacy - A Football Management Simulator</a>*
 
 After building two apps that worked but gained no users, I thought it was finally the moment to try and build something that other people would use. 
 
