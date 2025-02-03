@@ -50,7 +50,7 @@ The app overview:
 
 Current monthly active users (outside of me): 2
 
-### *<a href="https://fitpowerup.com/](https://footballevolved.app/" target="_blank">Football Evolved</a> - A Tracker App For Amateur footballers*
+### *<a href="https://fitpowerup.com/](https://footballevolved.app/" target="_blank">Football Evolved - Tracker App For Amateur footballers</a>*
 
 Had I had the talent, instead of becoming a developer I would have most likely become a professional footballer. Or maybe a professional developer footballer! 
 
