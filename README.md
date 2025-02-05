@@ -4,7 +4,7 @@ I wasn't expecting guests but you're more than welcome around here!
 
 Here's a few things you should know about me, as a heads up.
 
-- I’m about to Finish the <strong>Odin Project</strong>, a full stack curriculum for web development (more info [here](https://www.theodinproject.com/)
+- I’m about to Finish the <strong>Odin Project</strong>, a full stack curriculum for web development (more info [here](https://www.theodinproject.com/))
 - I’ve been learning HTML, CSS and Javascript, going strong into React & Node.js 
 - Throughout my learning process I've experimented with both SQL and NoSQL databases, from PostgreSQL, to Firebase and MongoDB
 - So far I've built 3 full-stack React apps, all currently in production (more info below)
