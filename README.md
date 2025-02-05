@@ -6,7 +6,7 @@ Here's a few things you should know about me, as a heads up.
 
 - I’m about to Finish the <strong>Odin Project</strong>, a full stack curriculum for web development (more info [here](https://www.theodinproject.com/))
 - I’ve been learning HTML, CSS and Javascript, going strong into React & Node.js 
-- Throughout my learning process I've experimented with both SQL and NoSQL databases, from PostgreSQL, to Firebase and MongoDB
+- Throughout my learning process I've experimented with both SQL and NoSQL databases, from PostgreSQL to Firebase and MongoDB
 - So far I've built 3 full-stack React apps, all currently in production (more info below)
 - I've actually started my programing journey a few years back, using Visual Basic for Applications. I was on a quest to automate every spreadsheet out there in the wild, before changing focus to web development (I had about ~5 .xlsx files left)
 - Programming languages are not the only ones I enjoy, as I speak Romanian, English and French fluently, with _some_ Spanish as well
