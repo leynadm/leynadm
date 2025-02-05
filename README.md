@@ -4,11 +4,13 @@ I wasn't expecting guests but you're more than welcome around here!
 
 Here's a few things you should know about me, as a heads up.
 
-- I’m currently going through the <strong>Odin Project</strong> (a full stack curriculum for web development, more info [here](https://www.theodinproject.com/))
-- I’m learning HTML, CSS and Javascript, going strong into React & Node.js
-- I started my programing journey a few years back, using Visual Basic for Applications. I was on a quest to automate every spreadsheet out there in the wild, before changing focus to web development (I had about ~5 .xlsx files left)
+- I’m about to Finish the <strong>Odin Project</strong>, a full stack curriculum for web development (more info [here](https://www.theodinproject.com/)
+- I’ve been learning HTML, CSS and Javascript, going strong into React & Node.js 
+- Throughout my learning process I've experimented with both SQL and NoSQL databases, from PostgreSQL, to Firebase and MongoDB
+- So far I've built 3 full-stack React apps, all currently in production (more info below)
+- I've actually started my programing journey a few years back, using Visual Basic for Applications. I was on a quest to automate every spreadsheet out there in the wild, before changing focus to web development (I had about ~5 .xlsx files left)
 - Programming languages are not the only ones I enjoy, as I speak Romanian, English and French fluently, with _some_ Spanish as well
-- Ask me about anything you feel like, but know I'm getting quite good at centering divs :smirk:
+- Ask me about anything you feel like, but just so you know, I'm really good at centering divs :smirk:
 
 ### :loudspeaker: Reach out to me and I'll make sure to reply back:
 <div id="badges">
@@ -37,7 +39,7 @@ Here's a few things you should know about me, as a heads up.
 </div>
 
 ### :computer: Projects I've built 
-### *<a href="https://fitpowerup.com/" target="_blank">fitPowerUp - A Dragon Ball Z Inspired Fitness App</a>*
+### *<a href="[https://fitpowerup.com/](https://fitpowerup.com/)" target="_blank">fitPowerUp - A Dragon Ball Z Inspired Fitness App</a>*
 
 fitPowerUp represents my first ever full-stack project. Built with React, Typescript and Firebase, I wanted to create an app that combined a wide array of features suitable for a fitness app, as well as a gamification element inspired from Dragon Ball Z series.
 The app overview:
@@ -50,9 +52,9 @@ The app overview:
 
 Current monthly active users (outside of me): 2
 
-### *<a href="https://fitpowerup.com/](https://footballevolved.app/" target="_blank">Football Evolved - Tracker App For Amateur footballers</a>*
+### *<a href="[https://footballevolved.app/](https://footballevolved.app/)" target="_blank">Football Evolved - Tracker App For Amateur footballers</a>*
 
-Had I had the talent, instead of becoming a developer I would have most likely become a professional footballer. Or maybe a professional developer footballer! 
+Had I had the talent, instead of becoming a developer I would have most likely become a professional footballer. Or maybe a professional footballer developer! 
 
 In short, Football Evolved is my second full-stack app, and it represents an attempt to improve on all the mistakes I made while creating fitPowerUp. It's built with React and Firebase once again, and the app works as a tracker for amateur footballers. It combines utility with - you guessed it - a series of gamification elements.
 
@@ -70,7 +72,7 @@ The app overview:
 
 Current monthly active users (outside of me): Let's say not a lot
 
-### *<a href="https://myfootballlegacy.com/" target="_blank">My Football Legacy - A Football Management Simulator</a>*
+### *<a href="[https://myfootballlegacy.com/](https://myfootballlegacy.com/)" target="_blank">My Football Legacy - A Football Management Simulator</a>*
 
 After building two apps that worked but gained no users, I thought it was finally the moment to try and build something that other people would use. 
 
