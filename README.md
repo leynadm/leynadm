@@ -39,7 +39,7 @@ Here's a few things you should know about me, as a heads up.
 </div>
 
 ### :computer: Projects I've built 
-### *<a href="[https://fitpowerup.com/](https://fitpowerup.com/)" target="_blank">fitPowerUp - A Dragon Ball Z Inspired Fitness App</a>*
+### *<a href="https://fitpowerup.com/" target="_blank">fitPowerUp - A Dragon Ball Z Inspired Fitness App</a>*
 
 fitPowerUp represents my first ever full-stack project. Built with React, Typescript and Firebase, I wanted to create an app that combined a wide array of features suitable for a fitness app, as well as a gamification element inspired from Dragon Ball Z series.
 The app overview:
@@ -52,7 +52,7 @@ The app overview:
 
 Current monthly active users (outside of me): 2
 
-### *<a href="[https://footballevolved.app/](https://footballevolved.app/)" target="_blank">Football Evolved - Tracker App For Amateur footballers</a>*
+### *<a href="https://footballevolved.app/" target="_blank">Football Evolved - Tracker App For Amateur footballers</a>*
 
 Had I had the talent, instead of becoming a developer I would have most likely become a professional footballer. Or maybe a professional footballer developer! 
 
@@ -72,7 +72,7 @@ The app overview:
 
 Current monthly active users (outside of me): Let's say not a lot
 
-### *<a href="[https://myfootballlegacy.com/](https://myfootballlegacy.com/)" target="_blank">My Football Legacy - A Football Management Simulator</a>*
+### *<a href="https://myfootballlegacy.com/" target="_blank">My Football Legacy - A Football Management Simulator</a>*
 
 After building two apps that worked but gained no users, I thought it was finally the moment to try and build something that other people would use. 
 
@@ -94,7 +94,7 @@ The app overview:
 - It has a very comprehensive analytics dashboard, covering a series of KPIs related to football (still using Recharts)
 - Users can perform player transfers, buying, selling and releasing players
 
-Current monthly active users (outside of me): 270+
+Current monthly active users (outside of me): 340+
 
 
 <!--
