@@ -41,6 +41,8 @@ I work as a Technical Consultant at **Boehringer Ingelheim**, a leading pharmace
   
 </div>
 
+### 📖 Project Deep Dives
+
 #### ⚽ [My Football Legacy](https://myfootballlegacy.com/) — Football Management Simulator
 
 A simulator where users manage football clubs and simulate seasons. Built to fill the gap left by the discontinued Pro Evolution Soccer Master League community.
