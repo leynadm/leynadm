@@ -4,13 +4,6 @@ I'm a **Full-stack developer** who went from managing BPO operations across thre
 
 I work as a Technical Consultant at **Boehringer Ingelheim**, a leading pharmaceutical company, where I support various IT transformation projects. My focus is now on creating modern, scalable web applications, specializing in the **React** and **Node.js** ecosystems.
 
-### :loudspeaker: Reach out to me and I'll make sure to reply back:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/matei-daniel/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### 🚀 Projects
 
 | Project | What it does | Users |
