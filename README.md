@@ -34,6 +34,8 @@ I work as a Technical Consultant at **Boehringer Ingelheim**, a leading pharmace
   
 </div>
 
+---
+
 ### 📖 Project Deep Dives
 
 #### ⚽ [My Football Legacy](https://myfootballlegacy.com/) — Football Management Simulator
