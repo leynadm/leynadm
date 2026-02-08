@@ -8,10 +8,10 @@ I work as a Technical Consultant at **Boehringer Ingelheim**, a leading pharmace
 
 | Project | What it does | Users |
 |---------|--------------|-------|
-| [My Football Legacy](https://myfootballlegacy.com/) | Football management simulator | 1,000+ registered / 500+ WAU |
-| [Football Evolved](https://footballevolved.app/) | Stats tracker for amateur footballers | 150+ registered / 30+ MAU |
+| [My Football Legacy](https://myfootballlegacy.com/) | Football management simulator | 1,000+ registered / ~500 WAU |
+| [Football Evolved](https://footballevolved.app/) | Stats tracker for amateur footballers | 150+ registered / ~30 MAU |
 | [Emplicit](https://emplicit.app/en) | AI content generation platform | In development |
-| [fitPowerUp](https://fitpowerup.com/) | DBZ-inspired fitness tracker | 150+ registered |
+| [fitPowerUp](https://fitpowerup.com/) | DBZ-inspired fitness tracker | 150+ registered / ~10 MAU |
 
 ---
 
