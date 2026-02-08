@@ -4,7 +4,7 @@ I'm a **Full-stack developer** who went from managing BPO operations across thre
 
 I work as a Technical Consultant at **Boehringer Ingelheim**, a leading pharmaceutical company, where I support various IT transformation projects. My focus is now on creating modern, scalable web applications, specializing in the **React** and **Node.js** ecosystems.
 
-### 🚀 Projects
+### My Projects
 
 | Project | What it does | Users |
 |---------|--------------|-------|
