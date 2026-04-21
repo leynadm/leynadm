@@ -11,7 +11,6 @@ I work as a Technical Consultant at **Boehringer Ingelheim**, a leading pharmace
 | [My Football Legacy](https://myfootballlegacy.com/) | Football management simulator | 1,000+ registered / ~500 WAU |
 | [Football Evolved](https://footballevolved.app/) | Stats tracker for amateur footballers | 150+ registered / ~30 MAU |
 | [Emplicit](https://emplicit.app/en) | AI content generation platform | In development |
-| [fitPowerUp](https://fitpowerup.com/) | DBZ-inspired fitness tracker | 150+ registered / ~10 MAU |
 
 ---
 
@@ -41,9 +40,9 @@ I work as a Technical Consultant at **Boehringer Ingelheim**, a leading pharmace
 
 ### 📖 Project Deep Dives
 
-#### ⚽ [My Football Legacy](https://myfootballlegacy.com/) — Football Management Simulator
+#### ⚽ [My Football Legacy](https://myfootballlegacy.com/) - Football Management Simulator
 
-A simulator where users manage football clubs and simulate seasons. Built to fill the gap left by the discontinued Pro Evolution Soccer Master League community.
+A simulator where users manage football clubs and simulate seasons. I built this due to a gap left by the discontinued Pro Evolution Soccer series, leaving with few options for the Master League community.
 
 **Tech:** Next.js · Supabase · Shadcn · Tailwind · Tanstack Query · Recharts
 
@@ -55,13 +54,13 @@ A simulator where users manage football clubs and simulate seasons. Built to fil
 - AI-powered management board that interacts with users through an in-app email system
 - Comprehensive analytics dashboard tracking football KPIs
 
-**Traction:** 1,150+ registered users · 500+ weekly active users on weekends
+**Traction:** 1,400+ registered users · 500+ weekly active users on weekends
 
 ---
 
-#### 📊 [Football Evolved](https://footballevolved.app/) — Tracker for Amateur Footballers
+#### 📊 [Football Evolved](https://footballevolved.app/) - Tracker for Amateur Footballers
 
-A stats tracker that brings gamification to amateur football—letting players monitor performance, earn achievements, and compete with friends.
+This is a stats tracker that brings gamification to amateur football—letting players monitor performance, earn achievements, and compete with friends. I personally have recorded over 200+ matches played within the app, across 3+ years, and the number keeps growing every week. 
 
 [My profile →](https://footballevolved.com/share?user=sS2Rowgi5igY1K4JbWhjmioI6Su1&token=c98b6b6bef21a5f10afee90d4f4c979d)
 
@@ -76,13 +75,13 @@ A stats tracker that brings gamification to amateur football—letting players m
 - Social features: user profiles, follow system, peer performance tracking
 - Custom club support with image uploads
 
-**Traction:** 150+ registered users · 30+ monthly active users
+**Traction:** 200+ registered users · 30+ monthly active users
 
 ---
 
-#### ✍️ [Emplicit](https://emplicit.app/en) — AI Content Generation Platform *(in progress)*
+#### ✍️ [Emplicit](https://emplicit.app/en) - AI Assisted Brand & Marketing Narrative builder *(in progress)*
 
-This was born from the pain of marketing my own projects. Emplicit is meant to help founders and marketers go from brand identity to content strategy to published content-all that's AI-assisted.
+This was born from the need to market my own projects. I do think raw AI output is generally not great, but with enough context, customization and well-defined workflows, you can get something decent. In short, the app is meant to help builders and marketers to build a brand identity, and create a content strategy for their products and services.
 
 **Tech:** Next.js · Supabase · Shadcn · OpenAI API · Gemini API · Vercel AI SDK
 
@@ -92,24 +91,10 @@ This was born from the pain of marketing my own projects. Emplicit is meant to h
 - Content ideation, communication style selection, and drafting tools
 - The app builds a brand context over time, allowing for better, more tailored outputs
 - Campaign planning and brand audit scheduling
-- Credit system for token usage tracking
+- Research agent for up-to-date information
+- Credit system for token usage tracking for each user
 - BYOK (bring your own key) support with secure storage via Supabase Vault
-
----
-
-#### 💪 [fitPowerUp](https://fitpowerup.com/) — Dragon Ball Z Fitness App
-
-My first full-stack project. A fitness tracker that gamifies workouts with DBZ-inspired progression mechanics.
-
-**Tech:** React · TypeScript · Firebase · Material UI · IndexedDB · Recharts
-
-**Features:**
-- Progressive Web App with offline-first architecture
-- Local workout storage via IndexedDB with Firestore sync
-- Analytics dashboard for tracking progress over time
-- CSV data export
-
-**Traction:** 150+ registered users
+- Integrates with Canva
 
 ---
 
